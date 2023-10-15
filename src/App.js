@@ -6,27 +6,28 @@ const App = () => {
     <div className="portfolio">
       <header>
         <h1>VARRE NAGA DURGA SAI MANI KUMAR</h1>
-        <p>Web Developer</p>
+        <p>Data Scientist,Web Developer</p>
       </header>
       <section className="projects">
         <h2>Projects</h2>
-        {/* Map through and render your project components */}
+        <b>Done projects on Sql,Linux</b>
       </section>
       <section className="skills">
         <h2>Skills</h2>
-        {/* List your skills */}
+        <b>Python,C++,C,Java,Sql,Html,CSS,JavaScript,React&NodeJs,Linux,AWS Cloud
+        </b>
       </section>
       <section className="experience">
         <h2>Experience</h2>
-        {/* List your work experience */}
+        <b>Worked as Core Member in IEEE</b>
       </section>
       <section className="education">
         <h2>Education</h2>
-        {/* List your educational background */}
+        <b>B.Tech with specilization in Data Science</b>
       </section>
       <section className="contact">
         <h2>Contact</h2>
-        {/* Add your contact information */}
+        <b>manikumarvarre@gmail.com</b>
       </section>
     </div>
   );
